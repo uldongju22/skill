@@ -1,0 +1,4 @@
+interface:
+  display_name: "CMS 토론 수업 키트"
+  short_description: "발췌문 기반 토론 자료 생성 및 인용 검증"
+  default_prompt: "Use $cms-debate-kit to turn a numbered book excerpt into a debate motion, evidence cards, a worksheet, a rubric, and a citation audit."
